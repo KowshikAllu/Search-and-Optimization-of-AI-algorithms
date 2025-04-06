@@ -189,7 +189,9 @@ python plot_time.py
 
 
  **Slides Folder**
-All generated GIFs and time plots for each algorithm are saved in the `Slides/` folder. 
+All generated GIFs and time plots for each algorithm are saved in the `Slides/` folder.  
+click here to view slides
+https://www.canva.com/design/DAGj2cgbZpw/TwvcAyNaCOIUJ87_xwVvPw/edit?utm_content=DAGj2cgbZpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
