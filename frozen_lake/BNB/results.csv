@@ -1,0 +1,11 @@
+Algorithm,Run,TimeTaken,Reward,ConvergencePoint,Path,Cost
+Branch and Bound,1,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,2,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,3,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,4,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,5,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,6,0.0010013580322265625,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,7,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,8,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,9,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6
+Branch and Bound,10,0.0,1,15,"[0, 1, 2, 6, 7, 11, 15]",6

@@ -1,0 +1,6 @@
+Algorithm,Run,TimeTaken,Distance,ConvergencePoint,Cost
+SimulatedAnnealing,1,0.12998652458190918,788.0,788.0,788.0
+SimulatedAnnealing,2,0.17192625999450684,888.0,888.0,888.0
+SimulatedAnnealing,3,0.14652371406555176,853.0,853.0,853.0
+SimulatedAnnealing,4,0.13469576835632324,800.0,800.0,800.0
+SimulatedAnnealing,5,0.13200759887695312,870.0,870.0,870.0

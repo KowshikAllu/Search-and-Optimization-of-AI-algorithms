@@ -1,0 +1,4 @@
+MAP:
+['SFFH', 'FFFF', 'FFFF', 'FHFG']
+PATH:
+[0, 1, 2, 6, 7, 11, 15]
